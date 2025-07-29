@@ -52,7 +52,7 @@ The system is built using discrete components and a microcontroller (Arduino), p
 
 ### Panel Image
 
-![Hades Panel](hades-1.jpeg)
+![Hades Panel](images/hades-1.jpeg)
 
 ### Pinout Reference
 
